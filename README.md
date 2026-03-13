@@ -2,6 +2,10 @@
 
 ## About Me
 I am a Electronics And Communication Engineering graduate interested in software development. I have knowledge in Java, Python, SQL and web technologies.
+My journey Nimblix technologies.Skilled in Fronted Development with Spring boot, along with DSA.
+
+#Location
+Bangalore
 
 ## Skills
 - Java
