@@ -1,7 +1,7 @@
 # My Portfolio
 
 ## About Me
-I am a Computer Science graduate interested in software development. I have knowledge in Java, Python, SQL and web technologies.
+I am a Electronics And Communication Engineering graduate interested in software development. I have knowledge in Java, Python, SQL and web technologies.
 
 ## Skills
 - Java
@@ -11,9 +11,8 @@ I am a Computer Science graduate interested in software development. I have know
 - Git
 
 ## Projects
-1. CRUD Operations Project
-2. Student Management System
-3. Mini Python Project
+1. Weather Forecasting Using python
+2. Smart door lock System
 
 ## Education
 B.Tech / Engineering
